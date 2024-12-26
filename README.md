@@ -2,9 +2,6 @@
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=c0dewithaditya&label=Profile%20views&color=0e75b6&style=flat" alt="c0dewithaditya" /> </p>
-<img align="right" alt-"coding" width="200" src="https://i.gifer.com/TZZ1.gif"/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c0dewithaditya" alt="c0dewithaditya" /></a> </p>
-
 - 🔭 I’m currently working on **My Skills**
 
 - 🌱 I’m currently learning **MOngoDB,PHP Laravel,SpringBoot**
@@ -12,6 +9,8 @@
 - 👯 I’m looking to collaborate on **Real time Projects**
 
 - 🤝 I’m looking for help with **DevOps**
+<img align="right" alt-"coding" width="200" src="https://i.gifer.com/TZZ1.gif"/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=c0dewithaditya" alt="c0dewithaditya" /></a> </p>
 
 - 👨‍💻 All of my projects are available at [https://protfolionew-lrbv.vercel.app/](https://protfolionew-lrbv.vercel.app/)
 
