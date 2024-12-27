@@ -14,8 +14,6 @@
 
 - 👨‍💻 All of my projects are available at [https://protfolionew-lrbv.vercel.app/](https://protfolionew-lrbv.vercel.app/)
 
-- 📝 I regularly write articles on [https://protfolionew-lrbv.vercel.app/](https://protfolionew-lrbv.vercel.app/)
-
 - 💬 Ask me about **Reactjs,Js,Java,Html,css,Tailwind css**
 
 - 📫 How to reach me **adityagen.lko12@gmail.com**
